@@ -1,0 +1,13 @@
+**/__pycache__
+
+.venv
+data
+.env
+.vscode
+**/Spacefile
+**/.space
+**/sample_data/*.json
+# Supabase
+supabase/.branches
+supabase/.temp
+supabase/migrations
